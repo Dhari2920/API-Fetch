@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 30px;
+    align-items: center;
+}
+.card{
+    background-color: #92fdfdc1 !important;
+    height: 200px; 
+    width:290px;
+    border: 1px solid black;    
+}
+.card-body{
+    font-family:sans-serif;
+    line-height: 32px;
+      
+}
